@@ -1,0 +1,80 @@
+Category ID: 1, Name: person
+Category ID: 2, Name: bicycle
+Category ID: 3, Name: car
+Category ID: 4, Name: motorcycle
+Category ID: 5, Name: airplane
+Category ID: 6, Name: bus
+Category ID: 7, Name: train
+Category ID: 8, Name: truck
+Category ID: 9, Name: boat
+Category ID: 10, Name: traffic light
+Category ID: 11, Name: fire hydrant
+Category ID: 13, Name: stop sign
+Category ID: 14, Name: parking meter
+Category ID: 15, Name: bench
+Category ID: 16, Name: bird
+Category ID: 17, Name: cat
+Category ID: 18, Name: dog
+Category ID: 19, Name: horse
+Category ID: 20, Name: sheep
+Category ID: 21, Name: cow
+Category ID: 22, Name: elephant
+Category ID: 23, Name: bear
+Category ID: 24, Name: zebra
+Category ID: 25, Name: giraffe
+Category ID: 27, Name: backpack
+Category ID: 28, Name: umbrella
+Category ID: 31, Name: handbag
+Category ID: 32, Name: tie
+Category ID: 33, Name: suitcase
+Category ID: 34, Name: frisbee
+Category ID: 35, Name: skis
+Category ID: 36, Name: snowboard
+Category ID: 37, Name: sports ball
+Category ID: 38, Name: kite
+Category ID: 39, Name: baseball bat
+Category ID: 40, Name: baseball glove
+Category ID: 41, Name: skateboard
+Category ID: 42, Name: surfboard
+Category ID: 43, Name: tennis racket
+Category ID: 44, Name: bottle
+Category ID: 46, Name: wine glass
+Category ID: 47, Name: cup
+Category ID: 48, Name: fork
+Category ID: 49, Name: knife
+Category ID: 50, Name: spoon
+Category ID: 51, Name: bowl
+Category ID: 52, Name: banana
+Category ID: 53, Name: apple
+Category ID: 54, Name: sandwich
+Category ID: 55, Name: orange
+Category ID: 56, Name: broccoli
+Category ID: 57, Name: carrot
+Category ID: 58, Name: hot dog
+Category ID: 59, Name: pizza
+Category ID: 60, Name: donut
+Category ID: 61, Name: cake
+Category ID: 62, Name: chair
+Category ID: 63, Name: couch
+Category ID: 64, Name: potted plant
+Category ID: 65, Name: bed
+Category ID: 67, Name: dining table
+Category ID: 70, Name: toilet
+Category ID: 72, Name: tv
+Category ID: 73, Name: laptop
+Category ID: 74, Name: mouse
+Category ID: 75, Name: remote
+Category ID: 76, Name: keyboard
+Category ID: 77, Name: cell phone
+Category ID: 78, Name: microwave
+Category ID: 79, Name: oven
+Category ID: 80, Name: toaster
+Category ID: 81, Name: sink
+Category ID: 82, Name: refrigerator
+Category ID: 84, Name: book
+Category ID: 85, Name: clock
+Category ID: 86, Name: vase
+Category ID: 87, Name: scissors
+Category ID: 88, Name: teddy bear
+Category ID: 89, Name: hair drier
+Category ID: 90, Name: toothbrush
