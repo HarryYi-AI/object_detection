@@ -23,3 +23,7 @@ mubiaojiance/
 ├── tf_to_pytorch/        # 模型转换工具
 ├── .venv/               # Python虚拟环境
 └── requirements.txt     # 项目依赖
+
+data和model我放到百度网盘中了
+通过网盘分享的文件：object_detection
+链接: https://pan.baidu.com/s/1FZ7XeXnLVtHyY7ulIR8wTA 提取码: cerf
